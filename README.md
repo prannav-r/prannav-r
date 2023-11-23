@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prannav-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prannav-r" height="30" width="40" /></a>
-<a href="https://x.com/r_prannav" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" alt="r_prannav" height="30" width="40" /></a>
+<a href="https://x.com/r_prannav" target="blank"><img align="center" src="https://i.pinimg.com/736x/91/8b/20/918b20dc0aa716e09fd0a58f9dd8e720.jpg" alt="r_prannav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
