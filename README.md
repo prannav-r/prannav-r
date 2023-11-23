@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prannav-r&show_icons=true&locale=en&layout=compact" alt="prannav-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prannav-r&show_icons=true&locale=en" alt="prannav-r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prannav-r&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="prannav-r" /></p>
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prannav-r&theme=dark" alt="GitHub Streak" /></a></p>
