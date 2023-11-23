@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/SYGw.gif)]
+[[MasterHead](https://i.gifer.com/SYGw.gif)]
 <h1 align="center">Hi 👋, I'm Prannav R</h1>
 <h3 align="center">A passionate developer from Chennai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
