@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prannav-r&show_icons=true&locale=en" alt="prannav-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prannav-r&" alt="prannav-r" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prannav-r&theme=dark" alt="GitHub Streak" /></a></p>
