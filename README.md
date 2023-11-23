@@ -1,3 +1,4 @@
+[![MasterHead](https://i.gifer.com/SYGw.gif)]
 <h1 align="center">Hi 👋, I'm Prannav R</h1>
 <h3 align="center">A passionate developer from Chennai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
@@ -12,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prannav-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prannav-r" height="30" width="40" /></a>
 <a href="https://twitter.com/r_prannav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_prannav" height="30" width="40" /></a>
 </p>
 
